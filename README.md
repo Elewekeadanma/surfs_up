@@ -5,6 +5,8 @@ The purpose of this project is to analyze weather data set realized from an isla
 Some key differences in weather between June and December
 - There was more weather data for June than for December.
 - There are more extreme temperatures which manifested as outliers in December than in June.
-![June Temperatures]
+![June Temperatures](https://github.com/Elewekeadanma/surfs_up/blob/main/June_temp.png)
+---
+![December Temperatures](
 - Looking at the minimum and maximum temperatures for both June and December , it is obvious that it is warmer in JUne than in December.
 ##  Summary
