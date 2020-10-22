@@ -1,7 +1,7 @@
 # surfs_up
 ---
 ##  Overview of the Project
-The purpose of this project is to analyze weather data set realized from an island. With this information, you will be able to predict the best times to open a Surf shop which will ice cream and surf boards to the locals.
+The purpose of this project is to analyze weather data set realized from an island. With this information, you will be able to predict the best time to open a Surf shop which will ice cream and surf boards to the locals.
 
 ---
 ##  Results
