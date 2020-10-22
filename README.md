@@ -15,5 +15,4 @@ Some key differences in weather between June and December
 - Looking at the minimum and maximum temperatures for both June and December , it is obvious that it is warmer in June than in December.
 ---
 ##  Summary
-When there is warm temperature and not much rainfall, people will love to surf as well as eat ice cream. Since there are much more warmer temperatures and less rainfall in June than in December, then the best time to open a Surf shop which sells ice cream and surf boards will be in the month of June. Even though December can also b
- 
+When there is warm temperature and not much rainfall, people will love to surf as well as eat ice cream. Since there are much more warmer temperatures and less rainfall in June than in December, then the best time to open a Surf shop which sells ice cream and surf boards will be in the month of June. 
